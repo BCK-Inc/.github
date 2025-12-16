@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/website-bck--inc.fr-blue)](https://bck-inc.fr)
 [![Status](https://img.shields.io/badge/status-active-success)]()
-[![Contact](https://img.shields.io/badge/contact-devis%40bck--inc.fr-orange)](mailto:devis@bck-inc.fr)
+[![Contact](https://img.shields.io/badge/contact-contact%40bck--inc.fr-orange)](mailto:devis@bck-inc.fr)
 
 ---
 
